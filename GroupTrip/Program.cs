@@ -1,4 +1,12 @@
-﻿const double TAX_RATE = 0.18;
+/*
+* Name: Dax.S.Brahmbhatt
+* Course: CSCI 1250, Section 201
+* Assignment: Lab 04, The Group Trip
+* Date: November 17, 2026
+* Description: Rebuilds the trip calculator with methods and arrays so it
+* reports on a whole group instead of one person.
+*/
+const double TAX_RATE = 0.18;
 const int SLICES_PER_PIZZA = 8;
 
 Console.Write("Round trip miles: ");
